@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [<img align="right" src="https://spotify-now-playing-peach.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd) 
+&nbsp; <br> [<img align="right" src="https://spotify-now-playing-z96y35kzd-isayakmondal.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd) 
 
   </td>
   <td width="50%">
